@@ -1,5 +1,5 @@
 # Face-Mask-Detector
-Detecting on live stream whetehr person has mask on or not
+Detecting on live stream whether person has face mask on or not
 
 Since the model file and inference graph were not uploaded. Please find drive link for these files. Download these files and paste it in the frozen_graphs folder and try to run the model by executing mask_detector.py
 
